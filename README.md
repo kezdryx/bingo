@@ -2,7 +2,7 @@
 
 just some stuff i was working on.
 
-bar.py - i gotta compile that and run this again.
+bar.py - red square dodge white square by pressing spacebar.. but the white squares get faster.
 baretext.cpp - a really basic text editor i dunno why i wrote in c++
 dungeonU.cpp - text battle game in the dungeon. BADLY written in c++
 horsepow.cpp - Use to calculate the Horsepower of a Gasoline enging, an electric motor, and a human running.
